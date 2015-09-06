@@ -1,7 +1,0 @@
-whatever
-<<<<<<< HEAD
-this is gonna go wrong ...
-=======
-wherever
->>>>>>>
-dfdfdfdfdf
